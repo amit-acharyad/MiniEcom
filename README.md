@@ -31,7 +31,7 @@ Welcome to the Mini E-Commerce App, a simple yet effective mobile application bu
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/amit-acharyad/MiniEcomApp.git
-   cd mini-ecommerce-app
+   cd MiniEcomApp
    ```
 2.** Install Dependencies:**
 
